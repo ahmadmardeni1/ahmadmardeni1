@@ -1,16 +1,14 @@
 ### Hi there 👋
+I'm a software engineering student who is passionat about Cyber-Security and AI.
+- 👯 I’m looking to collaborate on AI open-source projects.
+- 💬 Ask me about anything related to Python programming language!
 
-<!--
-**ahmadmardeni1/ahmadmardeni1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Let's talk 🌍
+  - [Facebook](https://www.facebook.com/profile.php?id=100004114573038)
+  - [Linkedin](https://www.linkedin.com/in/ahmad-mardeni-369b3019b/)
+  
+  
+I'm a technical writer. I'm focusing on programming tutorials related to Python. Have a look [here](https://www.section.io/engineering-education/authors/ahmad-mardeni/).
 
-Here are some ideas to get you started:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmadmardeni1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
