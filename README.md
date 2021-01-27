@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm a software engineering student who is passionat about Cyber-Security and AI.
+I'm a software engineering student who is passionate about Cyber-Security and AI.
 - 👯 I’m looking to collaborate on AI open-source projects.
-- 💬 Ask me about anything related to Python programming language!
+- 💬 Ask me about anything related to the Python programming language!
 
 ### Let's talk 🌍
   - [Facebook](https://www.facebook.com/profile.php?id=100004114573038)
