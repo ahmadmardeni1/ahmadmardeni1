@@ -10,7 +10,7 @@ I'm a software engineering student who is passionate about Cyber-Security and AI
   
 I'm a technical writer. I'm focusing on programming tutorials related to Python. Have a look [here](https://www.section.io/engineering-education/authors/ahmad-mardeni/).
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmadmardeni1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmadmardeni1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmadmardeni1&repo=Stock-price-predection-using-Python&theme=tokyonight)](https://github.com/ahmadmardeni1/Stock-price-predection-using-Python)
 
 ![](https://komarev.com/ghpvc/?username=ahmadmardeni1&color=blue)
  
