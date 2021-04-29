@@ -3,7 +3,7 @@ I'm a software engineering student who is passionate about Cyber-Security and ML
 - 🌟 I’m looking to collaborate on Deep Learning open-source projects.
 - 💬 Ask me about anything related to the Python programming language!
 
-### Let's talk 🌍
+### Let's talk <img src="https://media1.giphy.com/media/Qyo4wXCuIUNZJ4Qykp/giphy.gif" width="50">
   - [Facebook](https://www.facebook.com/profile.php?id=100004114573038)
   - [Linkedin](https://www.linkedin.com/in/ahmad-mardeni-369b3019b/)
   
