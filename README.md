@@ -13,7 +13,9 @@ I'm a technical writer. I'm focusing on programming tutorials related to Python.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmadmardeni1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmadmardeni1&repo=BSC-scan-bot&theme=tokyonight)](https://github.com/ahmadmardeni1/BSC-scan-bot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmadmardeni1&repo=Stock-price-predection-using-Python&theme=tokyonight)](https://github.com/ahmadmardeni1/Stock-price-predection-using-Python)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmadmardeni1&repo=Stock-price-predection-using-Python&theme=tokyonight)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmadmardeni1&repo=Parkinson-Prediction&theme=tokyonight)]
+(https://github.com/ahmadmardeni1/Stock-price-predection-using-Python)
 
 
 ![](https://komarev.com/ghpvc/?username=ahmadmardeni1&color=blue)
