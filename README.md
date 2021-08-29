@@ -4,8 +4,8 @@ I'm a software engineering student who is passionate about Cyber-Security and ML
 - 💬 Ask me about anything related to the Python programming language!
 
 ### Let's talk <img src="https://media1.giphy.com/media/Qyo4wXCuIUNZJ4Qykp/giphy.gif" width="50">
-  - [Facebook](https://www.facebook.com/profile.php?id=100004114573038)
   - [Linkedin](https://www.linkedin.com/in/ahmad-mardeni-369b3019b/)
+  - [Twitter](https://twitter.com/Mardeni01)
   
   
 I'm a technical writer. I'm focusing on programming tutorials related to Python. Have a look [here](https://www.section.io/engineering-education/authors/ahmad-mardeni/).
