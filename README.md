@@ -1,9 +1,9 @@
 ### Hi there 👋
-I'm a Software Engineer, specializes in Machine Learning and Data Science. I believe the Web3 underpins the internet of value, so I'm working with Web3 protocols to build the bases for a decentralized future.
+I'm a Software Engineer, specializes in Machine Learning and Data Science. I believe the Web3 underpins the internet of value and giving the user the control back.
 - 🌟 I’m looking to collaborate on Deep Learning open-source projects.
 - 💬 Ask me about anything related to the Python programming language!
 
-I'm a technical writer. I'm focusing on Python programming tutorials. Have a look [here](https://www.section.io/engineering-education/authors/ahmad-mardeni/).
+I'm a technical writer. I'm focusing on Python programming tutorials. Read my tutorials [here](https://www.section.io/engineering-education/authors/ahmad-mardeni/).
 
 Subscribe to my newsletter on Substack! I'm writing about Web3 and decentralization:
 
