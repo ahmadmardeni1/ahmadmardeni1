@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Software Engineer, specializes in Machine Learning and Data Science. I believe the Web3 underpins the internet of value and giving the user the control back.
+I'm a Software Engineer, specializes in Machine Learning and Data Science. I believe Web3 underpins the internet of value and giving the user the control back.
 - 🌟 I’m looking to collaborate on Deep Learning open-source projects.
 - 💬 Ask me about anything related to the Python programming language!
 
