@@ -9,13 +9,7 @@ The MardΞni Report newsletter: https://ahmadmardeni.substack.com/
   - [Linkedin](https://www.linkedin.com/in/ahmad-mardeni-369b3019b/)
   - [Twitter](https://twitter.com/Mardeni01)
   
-  
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmadmardeni1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmadmardeni1&repo=Stock-price-predection-using-Python&theme=tokyonight)](https://github.com/ahmadmardeni1/Stock-price-predection-using-Python)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmadmardeni1&repo=Parkinson-Prediction&theme=tokyonight)](https://github.com/ahmadmardeni1/Parkinson-Prediction)
-
 
 
 ![](https://komarev.com/ghpvc/?username=ahmadmardeni1&color=blue)
